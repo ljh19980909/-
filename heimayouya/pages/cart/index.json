@@ -1,0 +1,4 @@
+{
+  "usingComponents": { "i-message": "../../dist/message/index"},
+  "navigationBarTitleText": "购物车"
+}
